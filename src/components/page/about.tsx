@@ -16,7 +16,7 @@ const about = () => {
 			<div className="bg-secondary-foreground h-36 grid lg:grid-cols-[max-content_max-content_max-content_max-content_1fr] gap-x-1 place-items-center mt-6 w-full rounded-md font-bold">
 				<div className=" bg-secondary-foreground px-4 flex items-center justify-center gap-2 w-full text-3xl">
 					<CircleUserRound size={64} />
-					<div>Pantorn Chuavallee (I'm very Gay)</div>
+					<div>Pantorn Chuavallee (I'm very Gay & a Cute Femboy UwU)</div>
 				</div>
 				<div className="hidden bg-background h-24 p-1 rounded-md lg:block"></div>
 				<div className="hidden px-4 lg:flex items-center justify-center gap-2 w-full">
